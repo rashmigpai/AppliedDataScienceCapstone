@@ -1,4 +1,4 @@
-Week 3 - Segmenting and Clustering Neighborhoods in Toronto
+IBM Applied Data Science Capstone Course
 -----------------------------------------------------------
 
 * week3_segmentation_and_clustering/Week 3 - Segmenting and Clustering Neighborhoods in Toronto.ipynb - Scrapes and creates a CSV based on Postal Code and Neighborhood
